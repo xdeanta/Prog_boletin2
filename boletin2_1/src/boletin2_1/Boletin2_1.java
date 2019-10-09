@@ -21,7 +21,7 @@ public class Boletin2_1 {
         float precio_b, precio_p, porc_desc, diff;
         Scanner sc;
         sc=new Scanner(System.in);
-        System.out.println("Introduzca el precio base:");
+        //System.out.println("Introduzca el precio base:");
         precio_b=sc.nextFloat();
         System.out.println("Introduzca el precio pagado:");
         precio_p=sc.nextFloat();
